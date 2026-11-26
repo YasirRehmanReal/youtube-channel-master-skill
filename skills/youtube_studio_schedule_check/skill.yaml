@@ -1,0 +1,5 @@
+name: youtube_studio_schedule_check
+title: YouTube Studio Schedule Check
+description: Verify a YouTube Studio upload and its scheduled publish time by reading the saved video back after a reload, and use it whenever a video is uploaded or scheduled in Studio.
+category: Media
+include_in_prompt: false

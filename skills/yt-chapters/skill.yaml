@@ -1,0 +1,5 @@
+name: yt_chapters
+title: "YouTube Chapters"
+description: "Write YouTube chapters from a transcript, validated against YouTube's own rules so they actually render. Use for \"add chapters\", \"timestamps\", \"break this video into sections\"."
+category: "Media"
+include_in_prompt: false

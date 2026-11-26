@@ -1,0 +1,5 @@
+name: yt_retention
+title: "YouTube Retention Reader"
+description: "Read a YouTube Studio audience-retention export and find where viewers actually leave, then say what to change. Use for \"why do people stop watching\", \"my retention is bad\", a pasted retention chart or CSV, or \"fix my pacing\"."
+category: "Media"
+include_in_prompt: false
