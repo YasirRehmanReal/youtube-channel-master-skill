@@ -1,0 +1,5 @@
+name: verdict_skills
+title: "Faceless Video Production"
+description: "Produce a long-form faceless true-crime video at the right length, inside the free TTS quota, with an upload-ready pack delivered through Drive and scheduled from the user's local browser. Use when producing, fixing or handing over a finished video, or when the channel's production rules (pacing, quota, reference-clip islands, handover) apply."
+category: "Media"
+include_in_prompt: false

@@ -1,0 +1,21 @@
+name: verdict_video_production
+title: Faceless Video Production
+description: Produce a long-form faceless true-crime video at the right length, inside the Gemini free tier quota, with an upload-ready pack delivered through Drive and scheduled from the user's local browser.
+category: Media
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - message:3311e9f3-d424-47a4-b5a6-2af859cd80bb
+  - message:93d0def3-776f-4375-8908-14a967427928
+  - message:4eedd381-69ec-418e-976b-d5435bc0b5e3
+  measurement:
+    proxy_metric_id: objective_success_rate
+    success_criterion: The next two finished videos each land at 34 minutes or longer, each narration part is fully verified before assembly with no defective part used, each reference clip island is audible in the finished file, and each upload is verified with description, tags and chapters filled before its scheduled publish time.
+    window_days: 30
+  needs_review: false
+  rationale: Since the skill was published on 14 Nov 2026, new 15 Nov evidence exposed gaps it does not cover, so this is an update on new evidence rather than a repeat of the 14 Nov publication. Video 3 v1 was judged flawed because its clips had no voices, and the build had stripped clip audio (message:3311e9f3-d424-47a4-b5a6-2af859cd80bb), yet the skill only says never to duck clip audio under narration and never to strip it from the build. Video 4 narration produced a part that passed duration and tail checks yet was missing 464 words in the middle, and two parts came back half made twice before splitting fixed them, yet the skill has no full-verification, discard, or split rule for narration parts. Video 2 was judged fake for being mostly AI stills (message:4eedd381-69ec-418e-976b-d5435bc0b5e3), and the skill still says the user uploads, while Boss changed the role on 15 Nov so the assistant now uploads from his local browser, with Drive delivery adopted after chat file links repeatedly failed and a wrong-browser correction. The update adds full narration verification with discard and split rules, per-project quota, clip-audio preservation with a finished-file sound check, real-footage-first and density standards, and the corrected Drive plus local-browser upload handover. The 56 tool failures in the window carry only tool names with no failure detail, the failed quota-reset cron was superseded by manual completion, and the suppressed-handoff hypotheses concern objective-loop cadence this loop cannot change through a skill, so none of those supports a second proposal.
+  review_after: 2026-12-15T14:23:24.165302+00:00
+  reviewed_at: 2026-11-15T14:23:24.165302+00:00
+  run_id: sirun_56231429e5d24785a0e1d58544cbe3a5

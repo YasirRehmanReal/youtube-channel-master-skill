@@ -1,0 +1,5 @@
+name: video_editing_skill
+title: "Video Editing"
+description: "Edit a long-form faceless documentary video to a top-level standard — fast trailer-style hook, hard cuts, scene-matched real visuals, full-voice reference clips, real music low, competitor-style subtitles, and a measured verify pass before handover. Use when the user asks to edit, fix, rebuild or check a video, or to cut a hook, trailer or Short from long-form footage. Local ffmpeg only — no paid keys, no cloud render."
+category: "Media"
+include_in_prompt: false
