@@ -13,7 +13,7 @@ that fixes what the data says is broken.
 [![ffmpeg](https://img.shields.io/badge/ffmpeg-required-orange.svg)](#requirements)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
-Built by **[Yasir Khan](https://github.com/YasirRehmanReal)** from a real,
+Built by **[Yasir Rehman](https://github.com/YasirRehmanReal)** from a real,
 running faceless channel's production system.
 
 </div>
@@ -180,7 +180,7 @@ measure.
 ## License & attribution
 
 MIT — see [`LICENSE`](LICENSE). This repo combines original work by
-**Yasir Khan** ([@YasirRehmanReal](https://github.com/YasirRehmanReal):
+**Yasir Rehman** ([@YasirRehmanReal](https://github.com/YasirRehmanReal):
 `verdict-skills`, `video-editing-skill`, `youtube-research-skill`,
 `yt-community`, the master skill, templates) with the `yt-*` skills derived
 from [jakeschincariol/youtube-agent-skill](https://github.com/jakeschincariol/youtube-agent-skill)
@@ -194,6 +194,6 @@ their own licenses in their folders.
 *If this saves your channel from one blank-frame ship or one dead hook,
 a ⭐ is appreciated.*
 
-**[Yasir Khan](https://github.com/YasirRehmanReal)** · youtube-channel-master-skill
+**[Yasir Rehman](https://github.com/YasirRehmanReal)** · youtube-channel-master-skill
 
 </div>
